@@ -5,6 +5,8 @@ own and submit them via pull requests. Please make sure to include the QR code f
 
 If you wish to print more posters, please be aware that your printer may add steganographic [tracking dots], so it might be worthwhile to print at a library.
 
+[Click here](https://www.immigrantdefenseproject.org/wp-content/uploads/How-Amazon-Powers-ICEs-Deportation-Machine.pdf) for more information about Amazon's support for ICE.
+
 # [conozca sus derechos con ice / know your rights with ice](https://www.immigrantdefenseproject.org/conozca-sus-derechos-con-ice/)
 
 [tracking dots]: https://en.wikipedia.org/wiki/Printer_tracking_dots
